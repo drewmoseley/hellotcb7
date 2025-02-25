@@ -5,7 +5,7 @@ input:
       release: quarterly
       machine: verdin-imx8mm
       distro: torizon
-      variant: torizon-core-docker
+      variant: torizon-docker
       build-number: 4
 
 customization:
