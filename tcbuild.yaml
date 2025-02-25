@@ -17,4 +17,4 @@ output:
     local: hellotcb7-TCB-CUSTOM-max
   ostree:
     branch: hellotcb7
-    commit-subject: hellotcb7-max Test on Feb 25
+    commit-subject: hellotcb7-max Test on Feb 25 for Torizon 7 via CICD
